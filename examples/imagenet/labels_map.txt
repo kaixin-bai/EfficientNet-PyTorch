@@ -1,0 +1,1 @@
+{"0": "fail_grasp", "1": "success_grasp"}
